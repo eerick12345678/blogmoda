@@ -6,13 +6,13 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 20:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 21:39:27 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tendencia Verao 2024</title>
-      <link>https://example.org/posts/tendencia-verao-2024/</link>
-      <pubDate>Thu, 22 May 2025 20:50:35 +0000</pubDate>
-      <guid>https://example.org/posts/tendencia-verao-2024/</guid>
+      <title>Meu Primeiro Post</title>
+      <link>https://example.org/posts/meu-primeiro-post/</link>
+      <pubDate>Thu, 22 May 2025 21:39:27 +0000</pubDate>
+      <guid>https://example.org/posts/meu-primeiro-post/</guid>
       <description></description>
     </item>
   </channel>
